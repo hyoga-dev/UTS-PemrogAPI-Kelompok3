@@ -72,12 +72,15 @@ REST API untuk dua resource yang berelasi one-to-many, dibangun dengan **Express
 ### Struktur Project
 
 ```
-api-uts/
+UTS-PemrogAPI-Kelompok3/
 ├── .env.example
 ├── .gitignore
+├── package-lock.json
 ├── package.json
 ├── README.md
-├── uts.postman_collection.json
+├── Postman/
+│   ├── UTS-Local.postman_environment.json
+│   └── uts.postman_collection.json
 ├── sql/
 │   ├── schema.sql
 │   └── seed.sql
