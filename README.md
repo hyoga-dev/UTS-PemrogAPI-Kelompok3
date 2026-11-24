@@ -29,7 +29,7 @@ REST API untuk dua resource yang berelasi one-to-many, dibangun dengan **Express
 1. **Clone repository dan install dependensi**
    ```bash
    git clone <url-repository>
-   cd api-uts
+   cd UTS-PemrogAPI-Kelompok3
    npm install
    ```
 
