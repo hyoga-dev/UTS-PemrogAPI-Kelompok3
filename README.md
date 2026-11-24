@@ -5,7 +5,7 @@ REST API untuk dua resource yang berelasi one-to-many, dibangun dengan **Express
 - **kategori** (tabel induk): memakai **hard delete**
 - **produk** (tabel anak): memakai **soft delete** dan endpoint restore
 
-**Kelompok:** Kelompok 3
+**Kelompok:** 3
 
 | No | Nama | NIM |
 |---|---|---|
