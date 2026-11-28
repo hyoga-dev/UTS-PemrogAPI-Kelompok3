@@ -293,8 +293,8 @@ Isi collection:
 
 | Folder | Tangkapan layar |
 |---|---|
-| 1-Alur Utama | ![Runner folder 1](docs/screenshots/runner-folder1.png) |
-| 2-Skenario Error | ![Runner folder 2](docs/screenshots/runner-folder2.png) |
+| 1-Alur Utama | ![Runner folder 1](docs/screenshots/runner-folder1.png) ![Runner folder 1](docs/screenshots/Folder-1/S01-S05.png) ![Runner folder 1](docs/screenshots/Folder-1/S06-S10.png)![Runner folder 1](docs/screenshots/Folder-1/S11-S16.png) |
+| 2-Skenario Error | ![Runner folder 2](docs/screenshots/runner-folder2.png) ![Runner folder 1](docs/screenshots/Folder-2/N01-N05.png) ![Runner folder 1](docs/screenshots/Folder-2/N06-N10.png) ![Runner folder 1](docs/screenshots/Folder-2/N11-N14.png) |
 
 ### Bukti Delete di Database (Folder 3)
 
