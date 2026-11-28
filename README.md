@@ -14,6 +14,7 @@ REST API untuk dua resource yang berelasi one-to-many, dibangun dengan **Express
 | 3 | Cahyo Saputra | 24104410078 |
 | 4 | Hardi Prayoga | 24104410079 |
 | 5 | Putri Perwitasari | 24104410080 |
+| 6 | Salis Muna | 24104410090 |
 
 ---
 
