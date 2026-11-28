@@ -300,6 +300,6 @@ Isi collection:
 
 | Keadaan | Tangkapan layar |
 |---|---|
-| Setelah soft delete: baris produk masih ada, `deleted_at` terisi | ![Soft delete](docs/screenshots/db-1-soft-delete.png) |
-| Setelah restore: `deleted_at` kembali NULL | ![Restore](docs/screenshots/db-2-restore.png) |
-| Setelah hard delete: baris kategori sementara sudah tidak ada | ![Hard delete](docs/screenshots/db-3-before-hard-delete.png) ![Hard delete](docs/screenshots/db-3-hard-delete.png) |
+| Setelah soft delete: baris produk masih ada, `deleted_at` terisi | ![Soft delete](docs/screenshots/Folder-3/db-1-soft-delete.png) |
+| Setelah restore: `deleted_at` kembali NULL | ![Restore](docs/screenshots/Folder-3/db-2-restore.png) |
+| Setelah hard delete: baris kategori sementara sudah tidak ada | ![Hard delete](docs/screenshots/Folder-3/db-3-before-hard-delete.png) ![Hard delete](docs/screenshots/Folder-3/db-3-hard-delete.png) |
